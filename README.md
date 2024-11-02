@@ -1,1 +1,2 @@
 # Data-Visualization-of-Cyber-Threats-in-India
+This project analyzes and visualizes data on cyberattacks over several years, focusing on their types and impacts. It includes various charts, such as bar graphs, pie charts, and line graphs, to show trends and distributions of attacks. Additionally, it highlights cyberattacks specifically in India, comparing them to global totals. The aim is to provide a clear understanding of the increasing frequency and different types of cyber threats, making it easier to grasp their impact on various industries.
